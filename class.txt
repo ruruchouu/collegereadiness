@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang= "en">
+<head>
+<meta charset= "utf-8" >
+<title> READY TO ELEVATE!|ReadinessWeb.com </title>
+<link rel="stylesheet" href="main.css">
+<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lato:100,300,400">
+
+</head>
+
+<body>
+<header class="container group"> Welcome! 
+<h1 class= "logo"> 
+<a href = "index.html">Welcome to <em>Ready to Elevate!</em> </a>
+</h1>
+
+<!-- Menu -->
+
+  
+
+<div class="menu-wrap">
+   <nav class="menu">
+    <ul class="clearfix">
+    <a href="index.html">Home<span class="arrow">&#9660;</span></a>
+ 
+  <ul class="sub-menu">
+    <li><a href="class.html">Class Info</a></li>
+    <li><a href="planning.html">Four Year Planning</a></li>
+    <li><a href="driving.html">Driver's License and Permit</a></li>
+    <li><a href="employment.html">Employment and Resume Writing</a></li>
+    <li><a href="service.html">Community Service Opportunities</a></li>
+    <li><a href="health.html">Health,Hygiene, and Inspiration</a></li>
+    <li><a href="study.html">Study Materials</a></li>
+    <li><a href="college.html">College Admissions</a></li>
+    <li><a href="financial aid.html">Financial Aid</a></li>
+    <li><a href="register.html">Register and Comment</a></li>
+   </ul>
+  </nav>
+</div>
+
+<!-- Intro to A-G -->
+
+  
+
+<article>
+<h2>Classes Available</h2>
+
+<p>All classes could fall under one or more of the A-G requirements to graduate high school. Each of these requirements must be hit.
+
+Additionally, there are possible opportunities for earning college credit or moving ahead including dual enrollment at a nearby community college, AP and IB classes, and early graduation. 
+</p>
+
+<!-- Different Pathways -->
+
+  
+
+<table border="1"> 
+  <caption><strong>Pathway Options in High School</strong></caption>
+ <thead>
+   <tr>
+     <th scope="col">Type</th>
+     <th scope="col">Years Offered</th>
+     <th scope="col">Prerequisites?</th>
+   </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td>Regular Classes</td>
+   <td>All 4</td>
+   <td>None</td>
+  </tr>
+  <tr>
+   <td>Pre-AP/IB Classes</td>
+   <td>All 4</td>
+   <td>None</td>
+  </tr>
+  <tr>
+   <td>AP Classes</td>
+   <td>All 4, freshmen year limited to one AP class</td>
+   <td>Pre-AP recommended, Math concurrent level for Science classes</td>
+  </tr>
+  <tr>
+   <td>IB Classes</td>
+   <td>Junior and Senior Year; some may take SL Spanish early in Sophomore year if they have taken Spanish 1 or 2 early</td>
+   <td>HL Math highly recommends a 5 on the AP Calc BC exam prior to gaining entry.Science classes urge concurrent math level.</td>
+  </tr>
+</tbody>
+</table>
+
+<!-- AP and IB difference-->
+
+  
+
+<h2>AP and IB classes</h2>
+<h3> <em> What is the difference? </em> </h3>
+<p><strong>Clearly both help to earn college credit.</strong></p>
+<h4> IB classes are for: </h4>
+<ul>
+  <li>Students searching for improvements in oral ability</li>
+  <li>Students hoping to gain a more holistic learning experience</li>
+  <li>Students that seek an intense rigorous challenge</li>
+  <li>Students pursuing a sense of 'family' due to the rigor of IB uniting students much closer together</li>
+  <li>Students that may have struggled to keep up with the pacing in AP classes and are looking for a more extended learning experience</li>
+</ul>
+<h4> AP classes are for: </h4>
+<ul>
+  <li>Students who enjoy a faster paced learning environment </li>
+  <li>Students looking to pass a single exam and move on </li>
+  <li>Students that experience an intense level of anxiety or discomfort associated with rigor and oral communication </li>
+  <li>Students that are highly occupied with extracurricular activities to the extent that schoolwork time is deeply limited </li>
+</article>
+
+<!-- Outside Options -->
+
+  
+
+<h2>Alternative Options</h2>
+<p>These options offer a variety of methods outside of the normal 4 year A-G high school experience.</p>
+<ul> 
+  <li>Early Graduation</li>
+  <li>Dual Enrollment</li>
+  <li>Summer Classes</li>
+</ul>
+
+<h2>Early Graduation </h2>
+ <p>This option is valid for students who plan their 4 years well and expect to meet the graduation requirements before the end of their senior year must file a written appeal for permission to graduate early.</p>
+ <ol>
+  <li>Students must apply in writing to a joint counselor/administrator committee before the end of their <strong>junior year</strong></li>
+  <ul>
+    <li>State an acceptable reason for desiring early graduation</li>
+    <li>Have a written plan to meet all graduation requirements.</li>
+    <li>Submit the written lan by the correct deadline for application.</li>
+    <li>Have parent permission to graduate early.</li>
+  </ul>
+<li>Students who have the plan approved may take government, economics, and senior English in advance of their senior year. May earn these credits by taking:</li>
+ <ul>
+  <li>junior college</li>
+  <li>adult night school</li>
+  <li>summer school</li>
+  <li>University of California correspondence course. Should verify it first</li>
+  <li>Classes on the high school campus that provide extra credit, space permitting</li>
+  
+ </ul>
+<li>Remember courses taken through a junior college, adult night school, or UC enrollment.</li>
+<li>There is no limit to the number of credits that can be earned outside of the normal high school curriculum. Must have the plan and outside coursework pre approved before any coursework is undertaken.</li>
+<li>Seniors graduating mid-year may return for the graduation ceremony and grad night, but may not participate in any other senior activities.</li>
+<li>Good luck if you choose to undertake this arduous process! If you have a good reason or are a very persistent student with a dedicated work ethic, go for it!! </li>
+</ol>
+
+<h2>Dual Enrollment</h2>
+<p>At this current point, the schooling system at the school you are looking to enter as an incoming freshman does not offer full dual enrollment; however, it does have applications for MSJC for summer courses.</p>
+
+<h3>What is dual enrollment?</h3>
+<p>I first found this out from the school newspaper, so do not be afraid to read the newspaper to find out new and interesting information.</p>
+
+<p> Essentially in dual enrollment, high school students are enrolled in a <strong> college course </strong> and complete all the assignments that would normally be completed as part of the course. At the end of the course, they are given a final grade on a college transcript and course credit that can be applied toward a college degree. Dual enrollment programs <em>differ</em> from Advanced Placement and International Baccalaureate programs in that students take college courses rather than high school courses with college-level content</p>
+
+<h3>How do you enroll? When and where?</h3>
+<p>In this area, there are generally two options people choose to attend for dual enrollment.</p>
+<ol> 
+ <li>MSJC, usually the Temecula sector</li>
+ <li>Palomar College</li>
+</ol>
+
+<p>Enrollment should proceed as follows.</p>
+<ol> 
+ <li>Fill out the special applications for either college before the end of February. The latest time should be early March. <strong> Why? </strong> Because there are priority for admissions to classes and if you do not try to fulfill those requirement early the classes fill up quite quickly.</li>
+<ul>
+  <li>Decide on your courses. Generally only two courses are allowed,or there are a limited number of units. So choose wisely while considering your career and purpose for taking those classes.</li>  
+  <li>Make sure to acquire parental signatures.</li>
+  <li>Hand in to the secretary to receive the signature of the principal.</li>
+  <li>Contact the high school counselor for any further information or consult the college's website or their help services to gain more insight.</li>
+</ul>
+<li>Make sure to have a sealed transcript on hand. Order it ahead of time around late January or early February.</li>
+<li>Turn in the documentation to the campus. Wait for approval.</li>
+<li>Take the exams to place you into English and Math.</li>
+<li>Make the accounts necessary for enrollment and registration for classes.</li> <li> HIGHLY IMPORTANT: Make sure to check the open date and time for registration. For high school students, priority is at its lowest unless you are a returning student. That is why to get into the classes you would like, you must click and file rapidly before the slots fill up completely. I was waitlisted due to waiting too long.</li>
+<li>Make sure to pay the enrollment fees once enrolled. For MSJC, I simply paid around &#36;15 for the admission as a student and rented out the textbook on Chegg. 
+</li>
+</ol>
+
+<h3>What materials are needed or recommended?</h3>
+<p>During the process of my trial and error, I almost failed to bring in the right materials. Here is my recommended list: </p>
+<ul> 
+ <li>Check the syllabus and rent out or buy used versions of the required textbooks ahead of time before class starts. Bring the book on the first day of class.</li>
+ <li>Keep a laptop on hand.</li>
+ <li>A recording device for recording long lectures</li>
+ <li>Notebook or Paper for notetaking</li>
+ <li>Pencils,Pens,and other Writing Utensils</li>
+ <li>Scantrons for the Exams, some schools have a vending machine for them</li>
+ <li>Binder with Dividers and Folders</li>
+</ul>
+
+<h3>What time is best?</h3>
+<p>I took these community college classes over the summer due to our limited system for dual enrollment at the school. Of course, dual enrollment at other schools is meant to be taken concurrently or basically throughout the school year simultaneously with the high school courses. One of my close friends took dual enrollment at Palomar while at our high school.Essentially throughout the school year, she took normal courses during the day at our high school(No AP or IB) and college courses during the night. This allowed her to gain all the credits for graduation early as well as some additional college credit toward an Associate's Degree.</p>
+
+<h3>Benefits</h3>
+<p> It helped elevate my experience with the pacing and grading system associated with college. There is much less weight placed upon individual and small projects. The weight centers around the midterm and the final exam. My final grade in the class was ultimately decided by those two tests.Therefore, the small items could be glossed over much more easily; however, the larger topics must be concentrated upon heavily.</p>
+
+<h2>Summer Classes</h2>
+<p>These should be UC and/or high school approved courses. Some allow you to earn high school credit ahead of time. An example are the ones found on <a href="http://temeculaeducationfoundation.org/summer-high-school/">TVFEE Website</a>. Make sure to register early.</p>
+
+<h2>CTE</h2>
+<p>CTE refers to pathways in the school that allow students to gain career and technical education. This program specializes in integrating academics with the technical skills needed to maintain a career or an internship.Ask the counselors if interested.</p>
+
+</body>
+<footer class= "container">
+<nav>
+ <a href="index.html">Home</a>
+ <a href="class.html">Class Info</a>
+ <a href="planning.html">Four Year Planning</a>
+ <a href="driving.html">Driver's License and Permit</a>
+<a href="employment.html">Employment and Resume Writing</a>
+<a href="service.html">Community Service Opportunities</a>
+<a href="health.html">Health, Hygiene, and Inspiration</a>
+<a href="study.html">Study Materials</a>
+<a href="college.html">College Admissions</a>
+<a href="financial aid.html">Financial Aid</a>
+<a href="register.html">Register and Comment</a>
+</nav>
+<small>&copy; Ready to Elevate </small>
+</footer>
+
+</html>

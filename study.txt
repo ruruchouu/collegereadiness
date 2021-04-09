@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang= "en">
+<head>
+<meta charset= "utf-8" >
+<title> READY TO ELEVATE!|ReadinessWeb.com </title>
+<link rel="stylesheet" href="main.css">
+<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lato:100,300,400">
+
+</head>
+
+<body>
+<header class="container group"> Welcome! 
+<h1 class= "logo"> 
+<a href = "index.html">Welcome to <em>Ready to Elevate!</em> </a>
+</h1>
+
+<!-- Menu -->
+
+  
+
+<div class="menu-wrap">
+   <nav class="menu">
+    <ul class="clearfix">
+    <a href="index.html">Home<span class="arrow">&#9660;</span></a>
+ 
+  <ul class="sub-menu">
+    <li><a href="class.html">Class Info</a></li>
+    <li><a href="planning.html">Four Year Planning</a></li>
+    <li><a href="driving.html">Driver's License and Permit</a></li>
+    <li><a href="employment.html">Employment and Resume Writing</a></li>
+    <li><a href="service.html">Community Service Opportunities</a></li>
+    <li><a href="health.html">Health,Hygiene, and Inspiration</a></li>
+    <li><a href="study.html">Study Materials</a></li>
+    <li><a href="college.html">College Admissions</a></li>
+    <li><a href="financial aid.html">Financial Aid</a></li>
+    <li><a href="register.html">Register and Comment</a></li>
+   </ul>
+  </nav>
+</div>
+</header>
+
+<!-- Overview of Tips -->
+
+  
+<h2> Study Habits </h2>
+<p> Studying is absolutely essential skill to have in high school but not all students do it correctly. It is very important to take a look at what is being done right and what is being done wrong. </p>
+
+<h2> Tips to Improve </h2>
+<ul>
+  <li><strong>Calendar is a necessity. </strong> Staying organized depends highly on keeping it updated properly and following all homework and projects set for the day and throughout the weeks.</li>
+  <li>Ensure that a <em>quiet</em> study space is made at home or even go to the library to find the right environment. </li>
+  <li>Keep social media and distractions such as phones and other objects far from reach. When taking breaks, go out for a breath of fresh air or exercise in place, but make sure to keep a time limit to remind you to return. </li> 
+  <li>Do not be afraid to ask for help. After school tutoring in the library is a resource as well as your teachers themselves. </li>
+<li>Look up reliable additional resources from the internet. </li>
+</ul>
+
+<!-- Distinct Help -->
+
+  
+
+<h2>Resources</h2>
+<section>
+<a href="https://collegeinfogeek.com/">Thomas Frank or College Info Geek Tips: Optimize your Learning Habits</a></section>
+<section>
+<a href="http://calnewport.com/blog/2009/03/30/4-weeks-to-a-40-adopt-an-autopilot-schedule-and-a-sunday-ritual/">Cal Newport Study Tips</a></section>
+<section>
+<a href="https://www.scotthyoung.com/blog/articles/">Scott H Young: The Man who did the MIT Challenge </a></section>
+
+<!-- Different Styles of Learning -->
+
+  
+
+<p>I highly recommend the above websites. Remember to not only use one style of learning or studying. Try other styles to see which aspect is easiest for the subject.</p>
+<p>A test for understanding could be to see if you could possibly simplify the subject or theme to terms simple enough for a young child to understand. Either verbally or textually, try to express those thoughts based on recall alone. Rank yourself from 1- 10, 10 being excellent and easy to understand to 1 being barely comprehensible or lacking in sufficient information. </p>
+
+<ul>
+<li>Try listening to <strong> an audiobook or recording of your own voice</strong> for English or History. Test if it helps you.</li>
+<li>Make <strong> study guides</study>for each unit or framework objective. I recommend the <a href="QECBlank.html">QEC Method </a>. This method utilizes Question, Evidence, and Conclusion to help smoothen the study process.</li>
+<li>Use the method of loci. You visalize an image and attach it to each concept you hope to memorize.Then visualize the images in order to form a cohesive map and repeat the visualization process for recall and memorization. Best done with simple concepts and ideas.</li>
+</ul>
+<img src="images/learningpyramid.jpg" alt="Pyramid of Learning Retention" height= "400">
+
+</body>
+<footer class= "container">
+<nav>
+ <a href="index.html">Home</a>
+ <a href="class.html">Class Info</a>
+ <a href="planning.html">Four Year Planning</a>
+ <a href="driving.html">Driver's License and Permit </a>
+<a href="employment.html">Employment and Resume Writing</a>
+<a href="service.html">Community Service Opportunities</a>
+<a href="health.html">Health, Hygiene, and Inspiration</a>
+<a href="study.html">Study Materials</a>
+<a href="college.html">College Admissions</a>
+<a href="financial aid.html">Financial Aid</a>
+<a href="register.html">Register and Comment</a>
+</nav>
+<small>&copy; Ready to Elevate </small>
+</footer>
+
+</html>

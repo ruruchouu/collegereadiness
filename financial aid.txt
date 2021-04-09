@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang= "en">
+<head>
+<meta charset= "utf-8" >
+<title> READY TO ELEVATE!|ReadinessWeb.com </title>
+<link rel="stylesheet" href="main.css">
+<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lato:100,300,400">
+
+</head>
+
+<body>
+<header class="container group"> Welcome! 
+<h1 class= "logo"> 
+<a href = "index.html">Welcome to <em>Ready to Elevate!</em> </a>
+</h1>
+
+<!-- Menu -->
+
+  
+
+<div class="menu-wrap">
+   <nav class="menu">
+    <ul class="clearfix">
+    <a href="index.html">Home<span class="arrow">&#9660;</span></a>
+ 
+  <ul class="sub-menu">
+    <li><a href="class.html">Class Info</a></li>
+    <li><a href="planning.html">Four Year Planning</a></li>
+    <li><a href="driving.html">Driver's License and Permit</a></li>
+    <li><a href="employment.html">Employment and Resume Writing</a></li>
+    <li><a href="service.html">Community Service Opportunities</a></li>
+    <li><a href="health.html">Health,Hygiene, and Inspiration</a></li>
+    <li><a href="study.html">Study Materials</a></li>
+    <li><a href="college.html">College Admissions</a></li>
+    <li><a href="financial aid.html">Financial Aid</a></li>
+    <li><a href="register.html">Register and Comment</a></li>
+   </ul>
+  </nav>
+</div>
+</header>
+
+<!-- Overview -->
+
+  
+<h2>
+Financial Aid
+</h2>
+<p> 
+Financial aid comes in many shapes and packages; Many of which will have to be sought out and utilized by YOU specifically. While some aspects are handled by the financial aid office, much of it requires actual documentation, conducting visits, consulting your parents, and other items prior to gaining sufficient dollars for your college education.
+</p>
+
+<p>
+<em>Here's a link to a more comprehensive guide to <strong>all you need to know </strong> about financial aid in CA regarding the UCs specifically. </em>
+<a href="All_In_One_FinancialGuide.html"target="_blank">All in One Guide to Financial Aid for UCs</a>
+<ol>
+ <li> The first step for any student looking to go to college and gain financial aid is to secure all necessary documents and tax returns from one's family before filling out any other information.</li>
+ <li>FILL OUT THE FAFSA!! Make a new account.
+ <a href="https://fafsa.ed.gov/">FAFSA     Website</a>
+  </li>
+ <li> 
+Double check all information is correct before submission. Keep an eye on the deadline, especially since the priority deadline allows students access to specific financial aid opportunities not available at other points.
+</li>
+<li> 
+If you discover a mistake after submission, remedy it as soon as possible. Do not leave it till later</li> 
+<li> Fill out the application for any nearby chapters of Dollars for Scholars!! It matches you with the closest local scholarships particular to your high school, middle and elementary schools and nearby organizations.
+<a href="https://public.dollarsforscholars.org/index.php?action=userLogin">Dollars for Scholars</a> </li>
+</ol>
+
+</p>
+
+<img src="http://www.reoc.brockport.edu/images/financial-aid-101.jpg" alt="Financial Aid">
+<p> </p>
+
+</body>
+<footer class= "container">
+<nav>
+ <a href="index.html">Home</a>
+ <a href="class.html">Class Info</a>
+ <a href="planning.html">Four Year Planning</a>
+ <a href="driving.html">Driver's License and Permit </a>
+<a href="employment.html">Employment and Resume Writing</a>
+<a href="service.html">Community Service Opportunities</a>
+<a href="health.html">Health, Hygiene, and Inspiration</a>
+<a href="study.html">Study Materials</a>
+<a href="college.html">College Admissions</a>
+<a href="financial aid.html">Financial Aid</a>
+<a href="register.html">Register and Comment</a>
+</nav>
+<small>&copy; Ready to Elevate </small>
+</footer>
+
+</html>

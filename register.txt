@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang= "en">
+<head>
+<meta charset= "utf-8" >
+<title> READY TO ELEVATE!|ReadinessWeb.com </title>
+<link rel="stylesheet" href="main.css">
+<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lato:100,300,400">
+
+</head>
+
+<body>
+<header class="container group"> Welcome! 
+<h1 class= "logo"> 
+<a href = "index.html">Welcome to <em>Ready to Elevate!</em> </a>
+</h1>
+
+<!-- Menu -->
+
+  
+
+<div class="menu-wrap">
+   <nav class="menu">
+    <ul class="clearfix">
+    <a href="index.html">Home<span class="arrow">&#9660;</span></a> 
+  <ul class="sub-menu">
+    <li><a href="class.html">Class Info</a></li>
+    <li><a href="planning.html">Four Year Planning</a></li>
+    <li><a href="driving.html">Driver's License and Permit</a></li>
+    <li><a href="employment.html">Employment and Resume Writing</a></li>
+    <li><a href="service.html">Community Service Opportunities</a></li>
+    <li><a href="health.html">Health,Hygiene, and Inspiration</a></li>
+    <li><a href="study.html">Study Materials</a></li>
+    <li><a href="college.html">College Admissions</a></li>
+    <li><a href="financial aid.html">Financial Aid</a></li>
+    <li><a href="register.html">Register and Comment</a></li>
+   </ul>
+  </nav>
+</div>
+</header>
+
+<!-- Comment Box Section -->
+
+  
+
+<section class="row">
+  <div class="grid">
+<form method= "post">
+  <fieldset class="account-info">
+    <label>
+      Name
+      <input type="text" name="Name"required placeholder="name">
+    </label>
+    <label>
+      Email
+      <input type="email" name="email-address"required placeholder="name@domain.com">
+    </label>
+  </fieldset>
+  <fieldset class="account-action">
+<label>
+      Comments
+      <textarea name="comments"placeholder="Write your comment here" required></textarea>
+
+    <input class="btn" type="submit" name="submit" value="Submit">
+    <label>
+      <input type="checkbox" name="remember"> Verify
+    </label>
+
+  </fieldset>
+</form>
+
+</div>
+</section>
+
+</body>
+<footer class= "container">
+<small>&copy; Ready to Elevate </small>
+</footer>
+
+</html>
+
+
+
